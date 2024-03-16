@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north":{"model": "automatia:block/minimus_chambers_exit"},
+		"facing=east":{"model": "automatia:block/minimus_chambers_exit", "y":90},
+		"facing=south":{"model": "automatia:block/minimus_chambers_exit", "y":180},
+		"facing=west":{"model": "automatia:block/minimus_chambers_exit","y":270}
+	}
+}

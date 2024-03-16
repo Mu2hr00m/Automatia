@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "automatia:block/sulphurstone",
+    "top": "automatia:block/sulphurstone",
+    "side": "automatia:block/sulphurstone"
+  }
+}

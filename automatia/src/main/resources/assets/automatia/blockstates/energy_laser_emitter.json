@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"facing=north":{"model": "automatia:block/energy_laser_emitter", "x":90},
+		"facing=east":{"model": "automatia:block/energy_laser_emitter", "x":90, "y":90},
+		"facing=south":{"model": "automatia:block/energy_laser_emitter", "x":270},
+		"facing=west":{"model": "automatia:block/energy_laser_emitter","x":90, "y":270},
+        "facing=up":{"model": "automatia:block/energy_laser_emitter"},
+        "facing=down":{"model": "automatia:block/energy_laser_emitter","x":180}
+	}
+}

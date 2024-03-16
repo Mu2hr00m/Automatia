@@ -1,0 +1,18 @@
+{
+  "type": "automatia:minimus_chambers",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "minecraft:the_void",
+      "lakes": false,
+      "features": false,
+      "layers": [
+        {
+          "block": "automatia:materialite_block",
+          "height": 1
+        }
+      ],
+      "structure_overrides": []
+    }
+  }
+}

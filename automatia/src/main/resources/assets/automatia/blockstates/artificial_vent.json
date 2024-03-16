@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"open=true": {"model":"automatia:block/artificial_vent_open"},
+        "open=false": {"model":"automatia:block/artificial_vent_closed"}
+	}
+}

@@ -1,0 +1,47 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 48],
+	"textures": {
+		"0": "automatia:block/minimus_chambers_wall",
+		"particle": "minecraft:block/bedrock"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 5.33333], "texture": "#0"},
+				"east": {"uv": [0, 5.33333, 8, 10.66667], "texture": "#0"},
+				"south": {"uv": [8, 0, 16, 5.33333], "texture": "#0"},
+				"west": {"uv": [8, 5.33333, 16, 10.66667], "texture": "#0"},
+				"up": {"uv": [8, 16, 0, 10.66667], "texture": "#0"},
+				"down": {"uv": [16, 10.66667, 8, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, -2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"translation": [2.5, 0, 2],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"translation": [2.5, 0, 2],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [120, 0, -45],
+			"scale": [0.6, 0.6, 0.6]
+		}
+	}
+}

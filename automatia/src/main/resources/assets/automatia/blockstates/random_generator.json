@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north":{"model": "automatia:block/random_generator"},
+		"facing=east":{"model": "automatia:block/random_generator", "y":90},
+		"facing=south":{"model": "automatia:block/random_generator", "y":180},
+		"facing=west":{"model": "automatia:block/random_generator","y":270}
+	}
+}

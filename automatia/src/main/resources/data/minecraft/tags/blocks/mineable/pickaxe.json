@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values":[
+		"automatia:materialite_block",
+		"automatia:solar_panel",
+		"automatia:energy_cube",
+		"automatia:minimus_chambers_exit",
+		"automatia:minimus_chambers_wall"
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"automatia:diamond_mycelium",
+		"automatia:emerald_mycelium",
+		"automatia:lapis_mycelium",
+		"automatia:redstone_mycelium"
+	]
+}

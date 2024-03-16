@@ -1,0 +1,6 @@
+{
+	"parent": "automatia:block/analog_diode_base",
+	"textures": {
+		"0":"automatia:block/analog_diode_2"
+	}
+}

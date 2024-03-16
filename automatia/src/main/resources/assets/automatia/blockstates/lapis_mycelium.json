@@ -1,0 +1,12 @@
+{
+	"variants": {
+		"age=0":{"model": "automatia:block/lapis_mycelium_1"},
+		"age=1":{"model": "automatia:block/lapis_mycelium_2"},
+		"age=2":{"model": "automatia:block/lapis_mycelium_2"},
+		"age=3":{"model": "automatia:block/lapis_mycelium_2"},
+		"age=4":{"model": "automatia:block/lapis_mycelium_2"},
+		"age=5":{"model": "automatia:block/lapis_mycelium_2"},
+		"age=6":{"model": "automatia:block/lapis_mycelium_2"},
+		"age=7":{"model": "automatia:block/lapis_mycelium_3"}
+	}
+}
